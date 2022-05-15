@@ -27,9 +27,11 @@ As an Information technology student, I enjoy using my passion in real-world sce
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
+
 ```text
 No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 
