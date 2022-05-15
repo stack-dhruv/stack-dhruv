@@ -10,8 +10,6 @@ I am a full-stack web developer and currently learning many things. I am passion
 
 As an Information technology student, I enjoy using my passion in real-world scenarios, making things that can make an impact and change the world.
 
-<img align="right" alt="GIF" src="https://github.com/stack-dhruv/stack-dhruv/blob/main/hacker-5471975_1280.png" width="300" height="218" />
-
 **About current status**
 - 📖 Currently pursuing Information Technology - from LDRP-ITR Gandhinagar
 - 🧑‍💻 Working on something cool
