@@ -27,10 +27,12 @@ As an Information technology student, I enjoy using my passion in real-world sce
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     39 mins         █████████████▒░░░░░░░░░░░   52.91 %
-HTML         23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-C++          10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TypeScript            1 hr 1 min      ████████░░░░░░░░░░░░░░░░░   31.44 %
+HTML                  58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+Markdown              51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+CSS                   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+C++                   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Sublime Text Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
