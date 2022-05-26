@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Dhruv_1563/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhruv_1563_)
 
-### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stack-dhruv.readme) ![follow badge](https://img.shields.io/github/followers/stack-dhruv.svg?style=social&label=Follow&maxAge=2592000)
+### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stack-dhruv.readme) ![GitHub followers](https://img.shields.io/github/followers/stack-dhruv?color=informational&label=follow%20on%20github&logo=github&logoColor=black&style=for-the-badge)
 
 I am a full-stack web developer and currently learning many things. I am passionate about programming, writing, learning, and solving new problems.
 
