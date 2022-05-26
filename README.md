@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Dhruv_1563/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhruv_1563_)
 
-### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stack-dhruv.readme)
+### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stack-dhruv.readme) ![follow badge](https://img.shields.io/github/followers/stack-dhruv.svg?style=social&label=Follow&maxAge=2592000)
 
 I am a full-stack web developer and currently learning many things. I am passionate about programming, writing, learning, and solving new problems.
 
@@ -18,24 +18,28 @@ As an Information technology student, I enjoy using my passion in real-world sce
 - 📬 Reach me: iamdhruv1563@gmail.com
 
 ### 📊 My Github Stats:
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stack-dhruv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
+<a href="https://github.com/anuraghazra/stack-dhruv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stack-dhruv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" />
+</a>
+<a href="https://github.com/stack-dhruv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack-dhruv&layout=compact&theme=blue-green" />
+</a>
 
-
-### 📊 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-
-```text
-TypeScript            1 hr 59 mins    █████████░░░░░░░░░░░░░░░░   36.35 %
-HTML                  1 hr 48 mins    ████████▒░░░░░░░░░░░░░░░░   32.83 %
-Markdown              45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-JSON                  20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-CSS                   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Text                  14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-```
-
-<!--END_SECTION:waka-->
+### 💻 Technology Stack:
+<p style="background-color:green">
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/bootstrap/bootstrap.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/c/c.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/cpp/cpp.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/mongodb/mongodb.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/express/express.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/angular/angular.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/npm/npm.png"/>
+ </p>
 
 
 <!---
