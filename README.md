@@ -17,11 +17,14 @@
 
 ### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stack-dhruv.readme)
 
+
+<img src="./assets/computer_illustration.jpg" height="200" style="float:right; margin:20px">
+
 I am a full-stack web developer and currently learning many things. I am passionate about programming, writing, learning, and solving new problems.
 
 As an Information technology student, I enjoy using my passion in real-world scenarios, making things that can make an impact and change the world.
 
-<a href="https://github.com/stack-dhruv"><img src="./assets/computer_illustration.jpg"/></a>
+<br>
 
 **About current status**
 - 📖 Currently pursuing Information Technology - from LDRP-ITR Gandhinagar
