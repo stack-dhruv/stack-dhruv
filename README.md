@@ -18,9 +18,7 @@
 ### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stack-dhruv.readme)
 
 <p>
-<img src="./assets/computer_illustration.jpg" height="200rm" align="right" style="margin:10px">
-
-I am a full-stack web developer and currently learning many things. I am passionate about programming, writing, learning, and solving new problems.
+I am on the way to become a full-stack developer and currently learning many things. I am passionate about programming, writing, learning, and solving new problems.
 
 As an Information technology student, I enjoy using my passion in real-world scenarios, making things that can make an impact and change the world.
 </p>
