@@ -24,7 +24,7 @@ Software Developer, based in India.
 <br>
 
 **About current status**
-- 💻 Jr. SDE @IRS-PL (Ishitva Robotics Pvt. Ltd.) Working on Machine Learning & Computer Vision
+- 💻 Working on Machine Learning & Computer Vision
 - 📖 IT Engineer - (Graduated from LDRP-ITR, Gandhinagar)
 - 📈 Continuously learning
 - 📬 Reach me @: iamdhruv1563@gmail.com
