@@ -15,8 +15,6 @@
 -->
 ---
 
-### 👋 Glad to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stack-dhruv.readme)
-
 <p>
 Software Developer, based in India. 
 </p>
