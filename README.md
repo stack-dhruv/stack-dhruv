@@ -23,6 +23,7 @@ Software Developer, based in India.
 
 **About current status**
 - 💻 Working on Machine Learning & Computer Vision
+- 📝 M. Tech. CSE student at IIIT Delhi
 - 📖 IT Engineer - (Graduated from LDRP-ITR, Gandhinagar)
 - 📈 Continuously learning
 - 📬 Reach me @: iamdhruv1563@gmail.com
