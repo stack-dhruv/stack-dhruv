@@ -7,15 +7,15 @@
 
 - 🤝 I’m looking for help with **LLMs, AI and Computer Vision**
 
-- 👨‍💻 To learn more about me [stack-dhruv.vercel.app](stack-dhruv.vercel.app)
+- 👨‍💻 To learn more about me [stack-dhruv.vercel.app](https://stack-dhruv.vercel.app)
 
-- 📝 I regularly write articles on [stack-dhruv.vercel.app/blog](stack-dhruv.vercel.app/blog)
+- 📝 I regularly write articles on [stack-dhruv.vercel.app/blog](https://stack-dhruv.vercel.app/blog)
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **iamdhruv1563@gmail.com**
 
-- 📄 Know about my experiences [stack-dhruv.vercel.app/resume.pdf](stack-dhruv.vercel.app/resume.pdf)
+- 📄 Know about my experiences [stack-dhruv.vercel.app/resume.pdf](https://stack-dhruv.vercel.app/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
