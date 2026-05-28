@@ -58,9 +58,9 @@ I build production ML systems — ranking models, multimodal pipelines, and comp
 ## Certifications
 
 <p>
-  <img src="https://images.credly.com/size/150x150/images/1a634b4e-8c18-4f70-bbd0-d0d79b8c7e5e/image.png" width="80" alt="AWS ML Engineer Associate"/>
+  <img src="images/certifications/aws-machine-learning-associate-mla-c01-600x600.png" width="80" alt="AWS ML Engineer Associate"/>
   &nbsp;
-  <img src="https://images.credly.com/size/150x150/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="80" alt="Azure Data Scientist Associate"/>
+  <img src="images/certifications/azure-data-scientist-associate-600x600.png" width="80" alt="Azure Data Scientist Associate"/>
 </p>
 
 **AWS Certified Machine Learning Engineer – Associate** · valid Jul 2025 – Jul 2028  
